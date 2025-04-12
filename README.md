@@ -22,15 +22,6 @@ Consolidar o aprendizado prático e teórico sobre o uso do **Spring Framework**
 - Boas práticas para criação de aplicações escaláveis
 
 
-## 📚 Estrutura do repositório
-
-```plaintext
-Curso_Spring/
-├── ProjetoSpring1/        # Projeto com Spring Core e configurações básicas
-├── FirstProjectSpring/    # Projeto complementar desenvolvido no curso
-├── anotacoes/             # Arquivos com resumos e anotações
-├── README.md              # Este arquivo com a descrição do repositório
-
 💻 Tecnologias utilizadas
 
     Java 17+
