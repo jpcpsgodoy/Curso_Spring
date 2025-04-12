@@ -24,15 +24,11 @@ Consolidar o aprendizado prático e teórico sobre o uso do **Spring Framework**
 
 💻 Tecnologias utilizadas
 
-Java 17+
-
-Spring Framework / Spring Boot
-
-Maven
-
-IntelliJ IDEA
-
-Git & GitHub
+- Java 17+
+- Spring Framework / Spring Boot
+- Maven
+- IntelliJ IDEA
+- Git & GitHub
 
 📌 Autor: João Pedro Godoy
 🎓 Curso: Spring Framework for Java Development
