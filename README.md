@@ -31,9 +31,14 @@ Consolidar o aprendizado prático e teórico sobre o uso do **Spring Framework**
 - Git & GitHub
 
 📌 Autor: João Pedro Godoy
+
 🎓 Curso: Spring Framework for Java Development
+
 🏫 Instituição: SkillUp EdTech
+
 💼 Programa: IBM Java Developer
+
 📚 Plataforma: Coursera
+
 📅 Início do curso: Abril de 2025
 
