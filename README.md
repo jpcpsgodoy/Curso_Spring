@@ -1,5 +1,6 @@
-# ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge) Curso: Spring Framework for Java Development – IBM / SkillUp EdTech (via Coursera)
+# Curso: Spring Framework for Java Development – IBM / SkillUp EdTech (via Coursera)
 
+![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge) 
 
 Este repositório foi criado para armazenar todo o conteúdo desenvolvido ao longo do curso **"Spring Framework for Java Development"**, parte do programa de formação **IBM Java Developer**, ministrado pela **SkillUp EdTech** na plataforma **Coursera**.
 
@@ -7,7 +8,6 @@ Aqui você encontrará:
 
 - 📁 **Projetos práticos com Spring**
 - 🧠 **Anotações e resumos**
-- 🧪 **Exemplos de código**
 - 🛠️ **Exercícios aplicados durante o curso**
 
 ## 📌 Objetivo
