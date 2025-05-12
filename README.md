@@ -32,7 +32,7 @@ Consolidar o aprendizado prático e teórico sobre o uso do Spring Framework no 
   - Git & GitHub
 
 # Building Scalable Java Microservices with Spring Boot and Spring Cloud
-**Building Scalable Java Microservices with Spring Boot and Spring Cloud** – Google Cloud / Coursera
+
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)  
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-4DB6AC?logo=spring&logoColor=white&style=for-the-badge)
@@ -45,7 +45,6 @@ Aqui você encontrará:
 - 📘 Anotações e conceitos fundamentais  
 - 🛠️ Configurações com Spring Cloud, Cloud SQL, Pub/Sub e Trace
 
----
 
 ## 📌 Objetivo
 
@@ -58,7 +57,6 @@ Aprofundar o conhecimento em **desenvolvimento de microserviços escaláveis** c
 - Comunicação assíncrona com Pub/Sub (fila de mensagens)  
 - Práticas de escalabilidade e resiliência na nuvem
 
----
 
 ## 💻 Tecnologias utilizadas
 
