@@ -1,71 +1,38 @@
-# Cursos: 
+# 🌱 Repositório de estudos do Spring Framework
 
-# Spring Framework for Java Development – IBM / SkillUp EdTech (via Coursera)
-
-![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
-
-Este repositório foi criado para armazenar todo o conteúdo desenvolvido ao longo do curso "Spring Framework for Java Development", parte do programa de formação IBM Java Developer, ministrado pela SkillUp EdTech na plataforma Coursera.
-
-Aqui você encontrará:
-
-- 📁 Projetos práticos com Spring
-- 🧠 Anotações e resumos
-- 🛠️ Exercícios aplicados durante o curso
-
-## 📌 Objetivo
-
-Consolidar o aprendizado prático e teórico sobre o uso do Spring Framework no desenvolvimento moderno de aplicações Java, com foco em:
-
- - Spring Core e Inversão de Controle (IoC)
- - Spring Boot
- - Spring MVC
- - Spring Data JPA
- - Configurações e anotações
- - Boas práticas para criação de aplicações escaláveis
-
-## 💻 Tecnologias utilizadas
-
-  - Java 17+
-  - Spring Framework / Spring Boot
-  - Maven
-  - IntelliJ IDEA
-  - Git & GitHub
-
-# Building Scalable Java Microservices with Spring Boot and Spring Cloud
+![Java](https://img.shields.io/badge/Java-17+-orange?logo=java&logoColor=white&style=for-the-badge)![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white&style=for-the-badge)![Spring Security](https://img.shields.io/badge/Spring_Security-4CAF50?logo=springsecurity&logoColor=white&style=for-the-badge)![Google Cloud](https://img.shields.io/badge/Google_Cloud-Platform-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-MySQL-informational?logo=googlecloud&logoColor=white&style=for-the-badge)![Pub/Sub](https://img.shields.io/badge/Pub/Sub-Messaging-34A853?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)  
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-4DB6AC?logo=spring&logoColor=white&style=for-the-badge)
-
-Este repositório foi criado para organizar e documentar todo o conteúdo desenvolvido durante o curso **"Building Scalable Java Microservices with Spring Boot and Spring Cloud"**, oferecido pelo **Google Cloud** na plataforma **Coursera**.
-
-Aqui você encontrará:
-
-- 📁 Laboratórios práticos e exemplos de microserviços  
-- 📘 Anotações e conceitos fundamentais  
-- 🛠️ Configurações com Spring Cloud, Cloud SQL, Pub/Sub e Trace
+Este repositório foi criado para **organizar anotações, projetos práticos e conteúdos desenvolvidos durante cursos realizados na plataforma [Coursera](https://www.coursera.org/)**, com foco em **Java e o ecossistema Spring**.
 
 
 ## 📌 Objetivo
 
-Aprofundar o conhecimento em **desenvolvimento de microserviços escaláveis** com Java, utilizando o ecossistema do **Spring Framework** integrado com soluções da **Google Cloud Platform (GCP)**, abordando:
+Centralizar o aprendizado prático e teórico com Spring, aplicado ao desenvolvimento moderno de aplicações Java e microserviços escaláveis, explorando:
 
-- Arquitetura de microserviços com Spring Boot  
-- Integração com Spring Cloud (Config, Eureka, Gateway, etc.)  
-- Uso de bancos de dados gerenciados com Cloud SQL  
-- Monitoramento e rastreamento com Cloud Trace e Zipkin  
-- Comunicação assíncrona com Pub/Sub (fila de mensagens)  
-- Práticas de escalabilidade e resiliência na nuvem
+- Arquitetura de microserviços
+- Integração com serviços em nuvem (Google Cloud)
+- Boas práticas e padrões com Spring Boot
+- Anotações e insights dos cursos
+- Projetos práticos desenvolvidos durante os estudos
 
 
-## 💻 Tecnologias utilizadas
+## 🗂️ Estrutura
+
+Cada pasta deste repositório corresponde a um curso ou projeto específico. Dentro de cada diretório, você encontrará um `README.md` com informações detalhadas sobre o conteúdo abordado naquele módulo.
+
+Cursos incluídos:
+- `spring-framework-for-java-development/`
+- `building-scalable-java-microservices/`
+
+
+## 🛠️ Tecnologias Envolvidas
 
 - Java 17+  
-- Spring Boot / Spring Cloud  
-- Google Cloud Platform (Cloud SQL, Pub/Sub, Trace)  
+- Spring Boot / Spring Framework  
+- Spring Cloud / Cloud SQL / Pub/Sub  
 - Maven  
 - Git & GitHub  
-- IntelliJ IDEA
-
-
+- IntelliJ IDEA  
+- Google Cloud Platform
 
