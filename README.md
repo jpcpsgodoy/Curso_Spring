@@ -1,6 +1,6 @@
 # 🌱 Repositório de estudos do Spring Framework
 
-![Java](https://img.shields.io/badge/Java-17+-orange?logo=java&logoColor=white&style=for-the-badge)
+
 ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
