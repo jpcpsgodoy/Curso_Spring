@@ -1,6 +1,12 @@
 # 🌱 Repositório de estudos do Spring Framework
 
-![Java](https://img.shields.io/badge/Java-17+-orange?logo=java&logoColor=white&style=for-the-badge)![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white&style=for-the-badge)![Spring Security](https://img.shields.io/badge/Spring_Security-4CAF50?logo=springsecurity&logoColor=white&style=for-the-badge)![Google Cloud](https://img.shields.io/badge/Google_Cloud-Platform-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-MySQL-informational?logo=googlecloud&logoColor=white&style=for-the-badge)![Pub/Sub](https://img.shields.io/badge/Pub/Sub-Messaging-34A853?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-17+-orange?logo=java&logoColor=white&style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/Spring_Security-4CAF50?logo=springsecurity&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Platform-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-MySQL-informational?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 
 Este repositório foi criado para **organizar anotações, projetos práticos e conteúdos desenvolvidos durante cursos realizados na plataforma [Coursera](https://www.coursera.org/)**, com foco em **Java e o ecossistema Spring**.
